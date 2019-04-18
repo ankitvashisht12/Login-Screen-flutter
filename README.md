@@ -3,10 +3,11 @@
 This project is login screen Form Validation App in Flutter 
 
 ## Demo
-
+###### Email Validation
 ![Email Validation](https://user-images.githubusercontent.com/40850169/56351819-8d756280-61eb-11e9-8602-62b541294942.gif)
 
 
+###### Password Validation
 ![Password Validation](https://user-images.githubusercontent.com/40850169/56351855-a251f600-61eb-11e9-8d27-1242689681ce.gif)
 
 
